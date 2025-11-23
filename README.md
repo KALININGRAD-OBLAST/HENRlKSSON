@@ -13,13 +13,15 @@
 <p align="center">
 <kbd> $\color{#insert hex code}{\textsf{STUFF ABOUT URSELF HERE}}$<br>
   <br>
-$\color{#insert hex code}{\textsf{IF THIS CODE BREAKS OR ANYTHING FOR EXAMPLE YOU CAN SHORTEN YOUR MSG}}$<br>
+$\color{#insert hex code}{\textsf{ALSO SHORTEN MSG OR CODE BREAKS}}$<br>
   <br>
 $\color{#insert hex code}{\textsf{MORE STUFF HERE}}$<br>
   <br>
-  $\color{#insert hex code}{\textsf{ALSO USE CSS COLOR CODES IF YOU DONT KNOW WHERE TO LOOK LINK BELOW}}$<br>
+  $\color{#insert hex code}{\textsf{ALSO USE CSS COLOR CODES}}$<br>
   <br>
-  $\color{#insert hex code}{\textsf{YOU CAN ALSO CHANGE THE LINK IN THE TRANSPARENT PNG BELOW}}$<br></kbd>
+  $\color{#insert hex code}{\textsf{LINK BELOW}}$<br>
+  <br>
+  $\color{#insert hex code}{\textsf{BTW U CAN CHANGE THE LINK OF THE PNG}}$<br></kbd>
   <br>
 </br>
   <a href="https://www.w3schools.com/cssref/css_colors.php">
